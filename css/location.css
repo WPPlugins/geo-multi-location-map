@@ -1,0 +1,460 @@
+.omex_contain {
+    font-family: Verdana;
+    margin: 5px auto;
+    padding: 0;
+}
+.location_list ul {
+    list-style: outside none none;
+    margin: 0;
+}
+.location_list li.card.leftPhotoLayout {
+    border-bottom: 1px solid #c7cdcf;
+    border-left: medium none;
+    margin: 0;
+    padding: 0;
+}
+.location_list
+{
+	list-style: outside none none;
+    margin: 0;
+}
+
+.location_list li.card .contentHolder .photoCol .photoContainer {
+    background: #c7cdcf none repeat scroll 0 0;
+    border-radius: 3px;
+    height: 128px;
+    right: 0;
+    top: 0;
+    width: 128px;
+}
+.indexcall{
+ color: #aeb4b6;
+    float: left;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 500;
+    margin-right: 7px;
+    text-align: right;
+    width: 32px;
+	}
+.resultsView li.card .contentHolder .photoCol .photoContainer img {
+    border: medium none;
+    box-shadow: none;
+    height: 128px;
+    padding: 0;
+    width: 128px;
+}
+#resultsView li.card.leftPhotoLayout .contentHolder .infoCol {
+    float: left;
+    padding: 0 0 0 20px;
+    width: 486px;
+}
+.location_list li.card {
+    background: #fff none repeat scroll 0 0;
+    border-left: 5px solid transparent;
+    margin: 0;
+    overflow: hidden;
+    padding: 5px 0.5%;
+    position: relative;
+    width: auto;
+}
+.photoCol {
+    background: #efeff4 none repeat scroll 0 0;
+    border-radius: 4px;
+    float: left;
+    height: 100px;
+    margin: 0;
+    width: 100px;
+}
+
+.omex_top_link span img {
+    font-family: Arial,Helvetica,sans-serif;
+    height: 14px;
+    margin: 2px 0 0;
+    width: 10px;
+}
+.omex_top_link {
+    float: left;
+    margin: 0;
+}
+.omex_div_left {
+    float: left;
+    margin-top: 0px;
+    padding: 0px 0px;
+   	text-align: left;
+	width: 350px;
+}
+.omex_div_right {
+    float: right;
+    margin-top: 0px;
+    padding: 1px 1px;
+   	text-align: left;
+	width: 500px;
+}
+.omex_div_list {
+    background-color:#66CCFF;
+    border: 1px solid #66CCFF;
+    border-radius: 5px 5px 0 0;
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    width: 350px;
+}
+.omex_div_head span a {
+    color: #fff;
+    float: left;
+	text-transform:uppercase;
+    font-family: "BankGothic Md BT";
+    font-size: 20px;
+    margin: 0 0 0 0;
+    padding: 0;
+    position: relative;
+    text-decoration: none;
+    top: -3px;
+}
+
+.omex_div_sub_det {
+    float: left;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    width: 300px;
+}
+.omex_hours {
+    color: #565656;
+    line-height: 20px;
+    padding: 0 0 10px;
+}
+.omex_km {
+    float: right;
+    margin: 12px 0 0;
+    text-align: right;
+}
+
+.omex_address {
+    float: right;
+    font-family: Verdana;
+    line-height: 20px;
+    margin: 15px 15px 0 0;
+    padding: 0;
+    text-align: left;
+    width: 236px;
+}
+.omex_div_describ {
+    background-color: #f6f6f6;
+    border-bottom: 1px solid #00c6ff;
+    border-left: 1px solid #00c6ff;
+    border-radius: 0 0 5px 5px;
+    border-right: 1px solid #00c6ff;
+    color: #0c0c0c;
+    display: inline-block;
+    float: left;
+    font-family: Arial,Helvetica,sans-serif;
+    height: 150px;
+    margin: -3px 0 0;
+    padding: 0;
+    width: 350px;
+}
+
+.omex_Btn_link {
+    background-color: #66CCFF;
+    border: 1px solid #66CCFF;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 14px;
+    margin: 0 0 0 10px;
+    padding: 7px 35px;
+    position: relative;
+}
+.omex_div_a_right {
+color: #565656;
+    float: right;
+    line-height: 20px;
+    margin: 0 20px 0 0;
+    width: 242px;
+}
+.omex_div_catagory {
+    margin: 0 auto;
+    padding: 10px;
+    width: 915px;
+}
+.omex_clear {
+    clear: both;
+    float: none;
+    font-size: 0;
+    height: 0;
+    line-height: 0;
+}
+
+#omex_sidebar {
+    width:350px;
+    z-index: 99;
+}
+.omex_div_map {
+    background-color: #66CCFF;
+    border: 1px solid #66CCFF;
+    margin: 0;
+    padding: 0;
+    width: 600px;
+}
+.omex_div_map span img {
+    color: #fff;
+    font-family: "BankGothic Md BT";
+    font-size: 24px;
+    left: 5px;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    top: 2px;
+    vertical-align: text-top;
+}
+
+.omex_div_map span a {
+    color: #ffffff;
+    font-family: "BankGothic Md BT";
+    font-size: 20px;
+    left: 20px;
+    padding: 0;
+    position: relative;
+    text-decoration: none;
+    top: 0px;
+    vertical-align: text-top;
+}
+.omex_rel {
+    background-color: #66CCFF;
+    border: 1px solid #66CCFF;
+    color: #ffffff;
+    font-family: "BankGothic Md BT";
+    font-size: 17px;
+    margin-top: 3px;
+    padding: 8px 0 8px 6px;
+    width: 229px;
+}
+.omex_rel_link {
+    margin: 0;
+    padding: 5px 0;
+    position: relative;
+    width: 100%;
+}
+omex_rel_link ul li a {
+    background-color: #f28e00;
+    border-radius: 5px;
+    color: white;
+    float: left;
+    font-size: 10px;
+    font-weight: 500;
+    margin: 5px 2px;
+    padding: 3px 4px;
+}
+.omex_nav2 {
+    margin: 10px 0 40px;
+    padding: 0;
+    position: relative;
+    top: 20px;
+}
+
+.omex_nav2 a span {
+    background-color: #1ab5ee;
+    border: 1px solid #1ab5ee;
+    border-radius: 5px;
+    color: #fff;
+    display: inline-block;
+    font-size: 18px;
+    margin: 0 5px 9px 0;
+    padding: 3px 5px;
+}
+.aimnuti {
+    color: #565656;
+    line-height: 0px;
+    margin: 20px;
+    padding: 0 0 0px;
+}
+#mapView {
+    bottom: 0;
+    left: 646px;
+    right: 0;
+    top: 60px;
+    z-index: 1;
+}
+.contentHolder {
+    margin: 0;
+    padding: 50px;
+}
+#resultsView li.card .venueBlock {
+    background: none;
+    border: none;
+    margin: 0;
+    overflow: visible;
+    padding: 0;
+}
+#resultsView li.card.leftPhotoLayout {
+    border-bottom: 1px solid #c7cdcf;
+    border-left: none;
+    margin: 0;
+    padding: 0;
+}
+#resultsView li.card.leftPhotoLayout .contentHolder .infoCol .venueScore {
+    
+    text-shadow: none;
+    float: right;
+    line-height: 20px;
+    margin: 0;
+    top: inherit;
+}
+#resultsView li.card.leftPhotoLayout .contentHolder .infoCol .venueName {
+    padding: 0 45px 3px 0;
+}
+#resultsView li.card.leftPhotoLayout .contentHolder .infoCol .venueName h2 {
+    font-size: 17px;
+    font-weight: bold;
+}
+#resultsView li.card .venueBlock .venueName h2 {
+    color: #2d5be3;
+    cursor: pointer;
+    font-size: 21px;
+}
+#resultsView li.card .venueBlock .venueName h2 span{ margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+a, {
+    color: #2d5be3;
+    cursor: pointer;
+    text-decoration: none;
+}
+#resultsView li.card.leftPhotoLayout .contentHolder .infoCol .venueMeta {
+    margin: 0;
+    padding: 0 45px 0 0;
+}
+#resultsView li.card.leftPhotoLayout .contentHolder .infoCol .venueMeta .venueAddressData {
+    padding: 0;
+    width: inherit;
+}
+#resultsView li.card.leftPhotoLayout .contentHolder .infoCol .venueMeta .venueAddressData .venueData {
+    font-size: 13px;
+    padding-bottom: 4px;
+}
+#resultsView li.card.leftPhotoLayout .contentHolder .infoCol .venueMeta .venueAddressData .venueData span
+{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+.venueBlock .venueDetails .venueData .venueDataItem:last-child .delim {
+    display: none;
+}
+#resultsView li.card.leftPhotoLayout .contentHolder .infoCol .venueMeta .venueAddressData .venueAddress {
+    color: #959b9e;
+    font-size: 13px;
+}
+#resultsView li.card.leftPhotoLayout .contentHolder .infoCol .resultFooter {
+    border: none;
+    margin: 0;
+    overflow: visible;
+    padding: 10px 0 0 0;
+}
+#resultsView li.card.leftPhotoLayout .contentHolder .infoCol .resultFooter .buttons {
+    clear: both;
+    color: #aeb4b6;
+    list-style: none;
+    overflow: hidden;
+    clear: none;
+    float: left;
+}
+#resultsView li.card.leftPhotoLayout .contentHolder .infoCol .resultFooter .buttons .save-button {
+    
+    border-radius: 3px;
+    background: #efeff4;
+    border-bottom: 1px solid #c7cdcf;
+    height: 29px;
+    line-height: 28px;
+    padding-left: 31px;
+    padding-
+    right: 10px;
+}
+#resultsView li.card.leftPhotoLayout .contentHolder .infoCol .resultFooter .buttons .save-button .icon {
+    left: 8px;
+    top: 5px;
+}
+#resultsView li.card.leftPhotoLayout .contentHolder .infoCol .resultFooter .buttons .save-button .label {
+    color: #4e595d;
+    font-size: 14px;
+    font-weight: 500;
+}
+#resultsView li.card.leftPhotoLayout .contentHolder .detail {
+    padding: 15px 0 0 0;
+    margin: 0;
+}
+#resultsView ul {
+    list-style: none;
+    margin: 0;
+}
+
+#resultsView li.card.leftPhotoLayout .contentHolder .detail li.tip img.avatar {
+    border-radius: 3px;
+}
+#resultsView li.card.leftPhotoLayout .contentHolder .detail li.tip div.avatar {
+    margin: 0 10px 0 0;
+}
+
+#resultsView li.card .venueBlock .venueDetails {
+    float: none;
+    width: inherit;
+}
+#resultsView li.card.leftPhotoLayout .contentHolder .photoCol .photoContainer img {
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    background: transparent;
+    height: inherit;
+    width: inherit;
+}
+#resultsView li.card.leftPhotoLayout .contentHolder .photoCol .photoContainer {
+    height: 100px;
+    position: relative;
+    right: inherit;
+    top: inherit;
+    width: 100px;
+}
+#resultsView {
+    background: #fff;
+    position: relative;
+    z-index: 50;
+}
+#resultsView ul {
+    list-style: none;
+    margin: 0;
+}
+#resultsView li.card.leftPhotoLayout .contentHolder .photoCol {
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    background: #efeff4;
+    float: left;
+    height: 100px;
+    margin: 0;
+    width
+    : 100px;
+}
+#resultsView li.card.leftPhotoLayout .contentHolder .photoCol .photoContainer {
+    height: 100px;
+    position: relative;
+    right: inherit;
+    top: inherit;
+    width: 100px;
+}
+
+/*.
+div_detail {
+    float: right;
+    height: 190px;
+    margin: 0;
+    padding: 0;
+}*/
